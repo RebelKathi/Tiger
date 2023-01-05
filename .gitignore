@@ -1,3 +1,4 @@
 *.net
 *.java
 !sixsth.java
+[a e i o u]*.pythlon
